@@ -24,9 +24,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhangzhugod?tab=repositories"
+    "url": "https://github.com/zhangzhugod/vue-alert-plug.git"
   },
-  "homepage": "https://github.com/zhangzhugod?tab=repositories",
+  "homepage": "https://github.com/zhangzhugod/vue-alert-plug.git",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
